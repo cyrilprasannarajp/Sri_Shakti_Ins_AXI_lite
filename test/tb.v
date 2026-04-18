@@ -39,7 +39,7 @@ module axi4lite_tb;
     wire [7:0] uo_out;
 
     // DUT
-    tt_um_axi4lite_top dut (
+    tt_um_sriaxi4lite_top dut (
         .clk    (clk),
         .rst_n  (rst_n),
         .ena    (ena),
