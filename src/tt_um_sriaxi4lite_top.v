@@ -21,7 +21,7 @@
 
 `timescale 1ns / 1ps
 
-module tt_um_axi4lite_top
+module tt_um_sriaxi4lite_top
 (
     input  wire                        clk,
     input  wire                        rst_n ,
